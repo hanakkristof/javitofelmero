@@ -160,6 +160,10 @@ footer ul li:not(:last-child){
         #Jane{
             margin: 0 auto;
         }
+
+        .footerlist li{
+            text-align: center;
+        }
 }
 
 @media screen and (max-width:480px) {
@@ -183,5 +187,9 @@ footer ul li:not(:last-child){
         justify-content: space-evenly;
         padding: 0;
         margin: 15px 0px 15px 0px;
+    }
+
+    .footerlist li{
+        text-align: center;
     }
 }
