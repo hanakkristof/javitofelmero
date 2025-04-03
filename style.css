@@ -15,14 +15,13 @@ body{
     padding-top: 80px;
 }
 
-.navimg{
-    height: 50px;
-    width: 50px;
-    background-color: gray;
+i{
+    font-size: 2rem;
+    color: gray;
 }
 
 .active{
-    background-color: white;
+    color: white;
 }
 
 header{

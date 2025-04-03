@@ -1,4 +1,4 @@
 function setActive(obj){
-    document.querySelectorAll(".navimg").forEach(button => button.classList.remove("active"))
+    document.querySelectorAll("i").forEach(button => button.classList.remove("active"))
     obj.classList.toggle("active")
 }
